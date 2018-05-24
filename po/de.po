@@ -280,7 +280,7 @@ msgstr "Sperre und entsperre Gerät"
 
 #: src/service/plugins/mousepad.js:21
 msgid "Control the mouse and keyboard remotely"
-msgstr "Mouse und Tastatur steuern"
+msgstr "Maus und Tastatur steuern"
 
 #: src/service/plugins/mousepad.js:44
 msgid "Can't run in Wayland session"
